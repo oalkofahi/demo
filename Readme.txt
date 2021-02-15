@@ -4,4 +4,4 @@ Hello again
 
 Hello thrice
 
-Yes hello
+A conflict
